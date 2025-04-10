@@ -18,6 +18,6 @@ segue o link:
 
 
 ## quinta atividade: power bi, dados abertos, github(duplas)
-segue o link:
+segue o link:https://github.com/alinnykelwia/inform-tica/blob/main/Dados%20Power%20Bi.pbix
 ![image](https://github.com/user-attachments/assets/6dae06af-eff5-4d60-bcd3-efa4d0ebaad8)
 
