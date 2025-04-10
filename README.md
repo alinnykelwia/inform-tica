@@ -20,6 +20,7 @@ segue o link: https://github.com/alinnykelwia/inform-tica/blob/main/Qt%20de%20al
 ## quinta atividade: power bi, dados abertos, github(duplas)
 segue o link:https://github.com/alinnykelwia/inform-tica/blob/main/Dados%20Power%20Bi.pbix
 ![image](https://github.com/user-attachments/assets/6dae06af-eff5-4d60-bcd3-efa4d0ebaad8)
-segue o link da planilha: ![image](https://github.com/user-attachments/assets/6976540e-f5e0-417f-9113-cb50959ea4c4)
+segue o link da planilha: 
+![image](https://github.com/user-attachments/assets/6976540e-f5e0-417f-9113-cb50959ea4c4)
 
 
