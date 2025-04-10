@@ -13,7 +13,7 @@ segue o link:
 ![Captura de tela 2025-04-10 175453](https://github.com/user-attachments/assets/17ec62f6-687c-437a-af8d-2ee2a248360d)
 
 ## quarta atividade: power bi
-segue o link:
+segue o link: https://github.com/alinnykelwia/inform-tica/blob/main/Qt%20de%20alunos%20estrangeiros%20p%20nacionalidade_2%C2%B0%20Semestre%202023%20Alinny.pbix
 ![Captura de tela 2025-04-10 175916](https://github.com/user-attachments/assets/4cbcbed3-c43c-48e0-a618-8417ad156049)
 
 
