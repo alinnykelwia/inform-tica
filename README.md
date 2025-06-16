@@ -38,6 +38,10 @@ segue o link: https://fatecspgov-my.sharepoint.com/:x:/g/personal/fabio_araujo30
 ![Captura de tela 2025-06-05 203716](https://github.com/user-attachments/assets/e02f56fe-aa26-4e65-8e68-13c0b51561aa)
 ![image](https://github.com/user-attachments/assets/bae8c334-0d58-4f35-94fb-a348ebd1d5c2)
 
+## nona atividade: power apps
+![Captura de tela 2025-06-16 200631](https://github.com/user-attachments/assets/fbc2cba1-b834-4bf3-a3cc-a73068ac29f7)
+
+
 
 
 
