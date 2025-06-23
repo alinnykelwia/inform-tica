@@ -41,6 +41,11 @@ segue o link: https://fatecspgov-my.sharepoint.com/:x:/g/personal/fabio_araujo30
 ## nona atividade: power apps
 ![Captura de tela 2025-06-16 200631](https://github.com/user-attachments/assets/fbc2cba1-b834-4bf3-a3cc-a73068ac29f7)
 
+## power bi dashboard 
+segue link: 
+![image](https://github.com/user-attachments/assets/a122ed61-11d7-4479-b12e-268ef5d1f0f3)
+
+
 
 
 
