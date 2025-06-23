@@ -42,7 +42,7 @@ segue o link: https://fatecspgov-my.sharepoint.com/:x:/g/personal/fabio_araujo30
 ![Captura de tela 2025-06-16 200631](https://github.com/user-attachments/assets/fbc2cba1-b834-4bf3-a3cc-a73068ac29f7)
 
 ## power bi dashboard 
-segue link: 
+segue link: https://github.com/alinnykelwia/inform-tica/commit/acaa57ed70da7b006c4dac7099ef8b91f287f130
 ![image](https://github.com/user-attachments/assets/a122ed61-11d7-4479-b12e-268ef5d1f0f3)
 
 
