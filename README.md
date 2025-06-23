@@ -46,7 +46,7 @@ segue link: https://github.com/alinnykelwia/inform-tica/commit/acaa57ed70da7b006
 ![image](https://github.com/user-attachments/assets/a122ed61-11d7-4479-b12e-268ef5d1f0f3)
 
 ## aplicativo 
-segue o link:
+segue o link: https://github.com/alinnykelwia/inform-tica/commit/a98ddff1d61f669d5aa9fc6c1769b6605701311e
 ![image](https://github.com/user-attachments/assets/a62d6032-6e4f-4514-8b21-52b39902e5bf)
 
 
