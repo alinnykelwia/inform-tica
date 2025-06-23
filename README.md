@@ -45,6 +45,11 @@ segue o link: https://fatecspgov-my.sharepoint.com/:x:/g/personal/fabio_araujo30
 segue link: https://github.com/alinnykelwia/inform-tica/commit/acaa57ed70da7b006c4dac7099ef8b91f287f130
 ![image](https://github.com/user-attachments/assets/a122ed61-11d7-4479-b12e-268ef5d1f0f3)
 
+## aplicativo 
+segue o link:
+![image](https://github.com/user-attachments/assets/a62d6032-6e4f-4514-8b21-52b39902e5bf)
+
+
 
 
 
